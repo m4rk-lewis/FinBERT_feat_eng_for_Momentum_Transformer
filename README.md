@@ -42,7 +42,7 @@
 7. Run one of the Momentum Transformer or Slow Momentum with Fast Reversion experiments with `python -m examples.run_dmn_experiment <<EXPERIMENT_NAME>>`
 
 
-## TESTING THE FinBERT TFT dataset on the Momentum Transformer backtesting engine
+## TESTING THE FinBERT TFT dataset on the Momentum Transformer trading model
 1. The twitter data was scraped using the Optimized-Modified-GetOldTweets3-OMGOT repository by 
 2. Download the Quandl data with: `python -m data.download_quandl_data <<API_KEY>>`
 3. Create Momentum Transformer input features with: `python -m examples.create_features_quandl`. In this example we use the 100 futures tickers which have i) the longest history ii) more than 90% of trading days have data iii) data up until at least Dec 2021.
@@ -55,7 +55,9 @@
 ===========================================================================
 
 ## References
+
 [1] The FinBERT TFT uses a number of components from the Momentum Transformer. The code for the Momentum Transformer can be found [here](https://github.com/kieranjwood/trading-momentum-transformer).
+
 [2] The Momentum Transformer uses a number of components from the Temporal Fusion Transformer (TFT). The code for the TFT can be found [here](https://github.com/google-research/google-research/tree/master/tft).
 
 
