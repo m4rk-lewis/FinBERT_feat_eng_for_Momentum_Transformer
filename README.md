@@ -54,31 +54,32 @@
 
 ===========================================================================
 ## Results
+Fig 3. VWAP Proximity Oscilators.png
 <p align="center">
   <img src="https://github.com/m4rk-lewis/FinBERT_Feat_Eng_for_MOMENTUM_TRANFORMER/blob/main/pics/VWAP Dist Oscilators.png" width="1000" title="VWAP proximity Oscilators">
 </p>
-Fig 3. VWAP Proximity Oscilators.png
 
 
 
+Fig 4. Pin Bar Oscilators.png
 <p align="center">
   <img src="https://github.com/m4rk-lewis/FinBERT_Feat_Eng_for_MOMENTUM_TRANFORMER/blob/main/pics/Pin Bar Oscliators.png" width="1000" title="Pin Bar Oscliators">
 </p>
-Fig 4. Pin Bar Oscilators.png
 
 
 
+Fig 5. Finbert Sentiment Oscilators 1.png
 <p align="center">
   <img src="https://github.com/m4rk-lewis/FinBERT_Feat_Eng_for_MOMENTUM_TRANFORMER/blob/main/pics/FinBERT oscliators.png" width="1000" title="FinBERT oscliators">
 </p>
-Fig 5. Finbert Sentiment Oscilators 1.png
 
 
 
+Fig 6. Finbert Sentiment Oscilators 2.png
 <p align="center">
   <img src="https://github.com/m4rk-lewis/FinBERT_Feat_Eng_for_MOMENTUM_TRANFORMER/blob/main/pics/FinBERT oscliators 2.png" width="1000" title="FinBERT oscliators 2">
 </p>
-Fig 6. Finbert Sentiment Oscilators 2.png
+
 
 
 ===========================================================================
