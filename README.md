@@ -29,6 +29,7 @@
 8. folder: forexlive (all items)
 9. folder: twitter  (this contains data scraped using Optimized-Modified-GetOldTweets3-OMGOT)
 
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
 
 
 ## RUNNING MOMENTUM TRANSFORMER EXPIRENTS AS PER WOOD's ORIGINAL IMPLIMENTATION
