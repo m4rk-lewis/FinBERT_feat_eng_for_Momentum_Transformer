@@ -18,7 +18,7 @@
 
 
 
-## The files and folder within this repository can be placced inside the [Momentum Transforer](https://github.com/kieranjwood/trading-momentum-transformer) repository by Keiran Wood to allow comparison of feature engineering performance. Overwrite folders with the same names to transfer modifications over.
+## The files and folder within this repository can be placed inside the [Momentum Transforer](https://github.com/kieranjwood/trading-momentum-transformer) repository by Keiran Wood to allow comparison of feature engineering performance. Overwrite folders with the same names to transfer modifications over.
 1. 'forexlive_scraper.ipynb'
 2. 'feature_engineer.py'
 3. 'export_dataset_to_mom_trans.py'
