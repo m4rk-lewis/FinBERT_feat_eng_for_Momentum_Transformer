@@ -1,24 +1,5 @@
 # Financial Bidirectional Encoder Representations from Transformers (FinBERT) and Temporal Fusion Transformer (TFT) for Stock Market Prediction
 
-
-
-## Creating the FinBERT TFT dataset and running it on the Momentum Transformer trading model
-1. Open 'forexlive_scraper.ipynb' within Google Colab. Run All Cells for all desired years (some are subdivided into months)
-2. place sent_forexlive_2021.csv type labelled files into 'ForexLive' '4_Finbert' folders within the repo
-3. Place Futures Data into the Futures folder (1hour)
-4. Place a downloaded CSV of the economic callendar into teh callendar folder
-5. Run feature_engineer.py using the daily timeframe option
-6. Run  export_dataset_to_mom_trans.py
-7. Use command line arguments shown in the excel spreadsheet Experiemnt log to recreate the experiments
-
-
-
-
-===========================================================================
-
-
-
-
 ## The files and folder within this repository can be placed inside the [Momentum Transforer](https://github.com/kieranjwood/trading-momentum-transformer) repository by Keiran Wood to allow comparison of feature engineering performance. Overwrite folders with the same names to transfer modifications over.
 1. 'forexlive_scraper.ipynb'
 2. 'feature_engineer.py'
@@ -29,6 +10,19 @@
 7. folder: dataset (all items)
 8. folder: forexlive (all items)
 9. folder: twitter  (this contains data scraped using Optimized-Modified-GetOldTweets3-OMGOT)
+
+===========================================================================
+
+## Creating the FinBERT TFT dataset and running it on the Momentum Transformer trading model
+1. Open 'forexlive_scraper.ipynb' within Google Colab. Run All Cells for all desired years (some are subdivided into months)
+2. place sent_forexlive_2021.csv type labelled files into 'ForexLive' '4_Finbert' folders within the repo
+3. Place Futures Data into the Futures folder (1hour)
+4. Place a downloaded CSV of the economic callendar into teh callendar folder
+5. Run feature_engineer.py using the daily timeframe option
+6. Run  export_dataset_to_mom_trans.py
+7. Use command line arguments shown in the excel spreadsheet Experiemnt log to recreate the experiments
+
+===========================================================================
 
 ![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
 
