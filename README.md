@@ -1,7 +1,7 @@
 # FinBERT TFT
 
 
-## Creating the FinBERT TFT dataset and running it on the Momentum Transformer backtesting engine
+## Creating the FinBERT TFT dataset and running it on the Momentum Transformer trading model
 1. Open 'forexlive_scraper.ipynb' within Google Colab. Run All Cells for all desired years (some are subdivided into months)
 2. place sent_forexlive_2021.csv type labelled files into 'ForexLive' '4_Finbert' folders within the repo
 3. Place Futures Data into the Futures folder (1hour)
