@@ -1,4 +1,4 @@
-# FinBERT TFT
+# FinBERT Feature Engineering for TFT and LSTM Momentum Transformer
 
 
 ## Creating the FinBERT TFT dataset and running it on the Momentum Transformer trading model
