@@ -1,1 +1,1 @@
-insert 1 min coontinuous futures here
+insert 1 min continuous futures here
