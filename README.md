@@ -1,4 +1,6 @@
-# FinBERT Feature Engineering for TFT and LSTM Momentum Transformer
+# Financial Bidirectional Encoder Representations 
+from Transformers (FinBERT) and Temporal Fusion Transformer (TFT) for Stock Market Prediction
+
 
 
 ## Creating the FinBERT TFT dataset and running it on the Momentum Transformer trading model
