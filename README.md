@@ -18,7 +18,7 @@
 
 
 
-## This repository contains elements of Keiran Wood's Momentum Transformer to allow comparison of feature engineering performance. To avoid confusion or plagiarism issues, here is a complete list of the elements of this repository that are original work by Mark Lewis. Everything else is from Wood's Momentum Transformer Repo.
+## The files and folder within this repository can be placced inside the [Momentum Transforer](https://github.com/kieranjwood/trading-momentum-transformer) repository by Keiran Wood to allow comparison of feature engineering performance. Overwrite folders with the same names to transfer modifications over.
 1. 'forexlive_scraper.ipynb'
 2. 'feature_engineer.py'
 3. 'export_dataset_to_mom_trans.py'
