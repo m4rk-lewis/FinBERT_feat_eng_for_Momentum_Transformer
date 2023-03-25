@@ -1,6 +1,6 @@
 # Financial Bidirectional Encoder Representations from Transformers (FinBERT) and Temporal Fusion Transformer (TFT) for Stock Market Prediction
 
-## The files and folder within this repository can be placed inside the [Momentum Transforer](https://github.com/kieranjwood/trading-momentum-transformer) repository by Keiran Wood to allow comparison of feature engineering performance. Overwrite folders with the same names to transfer modifications over.
+#### The files and folder within this repository can be placed inside the [Momentum Transforer](https://github.com/kieranjwood/trading-momentum-transformer) repository by Keiran Wood to allow comparison of feature engineering performance. Overwrite folders with the same names to transfer modifications over.
 1. 'forexlive_scraper.ipynb'
 2. 'feature_engineer.py'
 3. 'export_dataset_to_mom_trans.py'
@@ -24,7 +24,10 @@
 
 ===========================================================================
 
-![alt text](https://github.com/[m4rk-lewis]/[FinBERT_Feat_Eng_for_MOMENTUM_TRANFORMER]/blob/[main]/pics/MomTransArch.png)
+<p align="center">
+  <img src="https://github.com/m4rk-lewis/FinBERT_Feat_Eng_for_MOMENTUM_TRANFORMER/blob/main/pics/MomTransArch.png" width="350" title="Momentum Transformer Architechture [1]">
+    <img src="https://github.com/m4rk-lewis/FinBERT_Feat_Eng_for_MOMENTUM_TRANFORMER/blob/main/pics/Experiment Flow.png" width="350" title="Experiment Flow Chart">
+</p>
 
 ===========================================================================
 
@@ -52,9 +55,11 @@
 ===========================================================================
 
 ## References
-The FinBERT TFT uses a number of components from the Momentum Transformer. The code for the Momentum Transformer can be found [here](https://github.com/google-research/google-research/tree/master/tft).
+[1] The FinBERT TFT uses a number of components from the Momentum Transformer. The code for the Momentum Transformer can be found [here](https://github.com/kieranjwood/trading-momentum-transformer).
+[2] The Momentum Transformer uses a number of components from the Temporal Fusion Transformer (TFT). The code for the TFT can be found [here](https://github.com/google-research/google-research/tree/master/tft).
 
-The FinBERT TFT uses scraped data from multiple sources. Since 2009, Forexlive have posted a link to every breaking news article  can be found [here](https://github.com/google-research/google-research/tree/master/tft).
 
-The Momentum Transformer uses a number of components from the Temporal Fusion Transformer (TFT). The code for the TFT can be found [here](https://github.com/kieranjwood/trading-momentum-transformer).
+
+
+
 
