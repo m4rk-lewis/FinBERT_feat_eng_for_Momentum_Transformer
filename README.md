@@ -1,5 +1,4 @@
-# Financial Bidirectional Encoder Representations 
-from Transformers (FinBERT) and Temporal Fusion Transformer (TFT) for Stock Market Prediction
+# Financial Bidirectional Encoder Representations from Transformers (FinBERT) and Temporal Fusion Transformer (TFT) for Stock Market Prediction
 
 
 
