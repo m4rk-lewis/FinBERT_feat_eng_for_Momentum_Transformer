@@ -32,6 +32,8 @@
 
 ![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
 
+===========================================================================
+
 
 ## RUNNING MOMENTUM TRANSFORMER EXPIRENTS AS PER WOOD's ORIGINAL IMPLIMENTATION
 1. Create a Nasdaq Data Link account to access the [free Quandl dataset](https://data.nasdaq.com/data/CHRIS-wiki-continuous-futures/documentation). This dataset provides continuous contracts for 600+ futures, built on top of raw data from CME, ICE, LIFFE etc.
@@ -41,8 +43,6 @@
 5. Create Momentum Transformer input features, including CPD module features with: `python -m examples.create_features_quandl 21` after the changepoint detection module has completed.
 6. To create a features file with multiple changepoint detection lookback windows: `python -m examples.create_features_quandl 126 21` after the 126 day LBW changepoint detection module has completed and a features file for the 21 day LBW exists.
 7. Run one of the Momentum Transformer or Slow Momentum with Fast Reversion experiments with `python -m examples.run_dmn_experiment <<EXPERIMENT_NAME>>`
-
-
 
 
 ## TESTING THE FinBERT TFT dataset on the Momentum Transformer backtesting engine
@@ -55,7 +55,7 @@
 7. Run one of the Momentum Transformer or Slow Momentum with Fast Reversion experiments with `python -m examples.run_dmn_experiment <<EXPERIMENT_NAME>>`
 
 
-
+===========================================================================
 
 ## References
 The FinBERT TFT uses a number of components from the Momentum Transformer. The code for the Momentum Transformer can be found [here](https://github.com/google-research/google-research/tree/master/tft).
