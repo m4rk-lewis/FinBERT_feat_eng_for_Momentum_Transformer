@@ -1,0 +1,44 @@
+0                                   BoE Asset Purchase Facility
+1<                                     BoE Interest Rate Decision
+2                                Core Consumer Price Index (YoY)
+3                                     BoE's Governor King speech
+4<                                          Claimant Count Change
+5                                        Bank of England Minutes
+6                         Bank of England Monetary Policy Report
+7                                Consumer Inflation Expectations
+8                                     Consumer Price Index (YoY)
+9                            BoE Monetary Policy Report Hearings
+10                                           BoE's Tucker speech
+11<                                    Consumer Price Index (MoM)
+12                                    ILO Unemployment Rate (3M)
+13                                     Autumn Forecast Statement
+14                                         BoE MPC Vote Rate Cut
+15                                        BoE MPC Vote Rate Hike
+16                                   BoE MPC Vote Rate Unchanged
+17                           Mark Carney speaks at UK Parliament
+18                                  BoE's Governor Carney speech
+19                              Scottish Independence Referendum
+20                                        Parliamentary Election
+21                                       Monetary Policy Summary
+22<                                                 EU Referendum
+23                          UK Prime Minister Theresa May speech
+24                                    EU Membership Court Ruling
+25    UK Supreme Court Hears Government-Parliament Brexit Appeal
+26                                 BoE Monetary Policy Statement
+27                  Brexit Bill's Final Vote in House of Commons
+28                  UK Government triggers Article 50 for Brexit
+29                     Average Earnings Including Bonus (3Mo/Yr)
+30                     Average Earnings Excluding Bonus (3Mo/Yr)
+31                                      Bank Stress Test Results
+32                                       Brexit Press Conference
+33                                          Boris Johnson speech
+34                     UK Cabinet Meeting to discuss Brexit Deal
+35                                    UK PM May meets EU Juncker
+36                                 PM May's Leadership Challenge
+37                               UK Parliamentary Vote on Brexit
+38                             European Council Summit on Brexit
+39                  Tory Leadership Contest Results Announcement
+40                        UK Prime Minister Boris Johnson speech
+41                                               Brexit Deadline
+42                                  BoE's Governor Bailey speech
+43                           No confidence vote in UK PM Johnson

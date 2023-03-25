@@ -1,0 +1,15 @@
+0                    BoJ Monetary Policy Statement 
+1<                        BoJ Interest Rate Decision
+2<               BoJ Monetary Policy Meeting Minutes
+3                       BoJ Monthly Economic Survey
+4                        Japanese General Elections
+5<               National Consumer Price Index (YoY)
+6                      BoJ's Governor Kuroda speech
+7                National CPI ex Food, Energy (YoY)
+8                  National CPI ex-Fresh Food (YoY)
+9                              BoJ Press Conference
+10                 Tokyo Consumer Price Index (YoY)
+11                  Tokyo CPI ex Food, Energy (YoY)
+12                    Tokyo CPI ex Fresh Food (YoY)
+13    BoJ's Governor Kuroda speech  at Jackson Hole
+14                                Unemployment Rate

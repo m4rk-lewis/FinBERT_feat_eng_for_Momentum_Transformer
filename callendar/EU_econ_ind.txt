@@ -1,0 +1,60 @@
+0<                               ECB rate on main refinancing operations
+1                                         ECB's President Draghi speech
+2                                                  HICP-X F,E,A,T (YoY)
+3<                                                    ECB Monthly Report
+4                                      EU Extraordinary Economic Summit
+5<                                                     Unemployment Rate
+6                                                            HICP (YoY)
+7                                            Producer Price Index (YoY)
+8                                          EU Finance Ministers Meeting
+9                                                      ECB LTRO Auction
+10<                                                 ECB Press Conference
+11                                 European Systemic Risk Board Meeting
+12                                                          G20 Meeting
+13               European Commission releases Economic Growth Forecasts
+14                                          Irish Stability Treaty Vote
+15                                            EU Leaders Special Summit
+16                                             European Council Meeting
+17                                                ECB Mid-Month Meeting
+18                                                 Troika visits Greece
+19                                             Samaras - Merkel Meeting
+20                                           Samaras - Hollande Meeting
+21                                               Rajoy - Merkel Meeting
+22                                         Dutch Parliamentary Election
+23                                              Draghi - Merkel Meeting
+24                                     Monti - Hollande - Rajoy Meeting
+25                                 Van Rompuy - Barroso - Monti Meeting
+26                          ECB's President Mario Draghi visits Germany
+27                                                           HICP (MoM)
+28                                   EU FinMin Teleconference on Greece
+29                                                       EcoFin Meeting
+30                               ECB's President Draghi speaks at Davos
+31       Cyprus Parliament to Vote on Deposit Levy for EU Bailout Plan 
+32                                    Cyprus - Eurogroup Teleconference
+33    Cyprus Parliament Vote on Banking Restructuring, Wealth Fund Bill
+34                                                    Eurogroup Meeting
+35<                             European Monetary Union Press Conference
+36                                         European Parliament Election
+37                                                           G7 Meeting
+38                        ECB's President Draghi speaks at Jackson Hole
+39                                                        Targeted LTRO
+40                                     ECB's President Draghi statement
+41                                                Bank Stress Test Info
+42                                      Non-Monetary Policy ECB Meeting
+43                                     European Court of Justice Ruling
+44                                            Juncker - Tsipras Meeting
+45                                          Draghi - Varoufakis Meeting
+46                                 ECB Monetary Policy Meeting Accounts
+47                                           Producer Price Index (MoM)
+48                                           Jean Claude Juncker speech
+49                                        ECB rate on deposit  facility
+50                                                    EU leaders summit
+51                 EU Parliament to Vote on Resolution on UK Referendum
+52                                                 HICP-X F,E,A,T (MoM)
+53                                                   Donald Tusk speech
+54                                              ECB Bank Lending Survey
+55<                                                        Brexit Summit
+56                                       ECB's President Lagarde speech
+57                                         ECB Special Strategy Meeting
+58                               ECB Monetary Policy Decision Statement
+59                                              ECB's De Guindos speech

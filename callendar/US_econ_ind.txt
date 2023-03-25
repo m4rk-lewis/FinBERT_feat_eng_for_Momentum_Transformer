@@ -1,0 +1,76 @@
+0<                                                   FOMC Minutes
+1<                                               Nonfarm Payrolls
+2                                              Unemployment Rate
+3                                               Fed's Beige Book
+4<                                     Consumer Price Index (YoY)
+5                    Consumer Price Index ex Food & Energy (YoY)
+6                                     Fed Interest Rate Decision
+7                                      FOMC Economic Projections
+8<           Fed's Monetary Policy Statement and Press Conference
+9                                 Fed's Chair Bernanke testifies
+10                                 Barack Obama Press Conference
+11                                         Bank Stress Test Info
+12                            Former Fed's Chair Bernanke speech
+13<                               Fed's Monetary Policy Statement
+14                                        Jackson Hole Symposium
+15    Core Personal Consumption Expenditures - Price Index (YoY)
+16                   Fed's Chair Bernanke speaks at Jackson Hole
+17                                    Producer Price Index (YoY)
+18                   Producer Price Index ex Food & Energy (YoY)
+19                                                   IMF Meeting
+20                                         Presidential Election
+21                                            Fiscal Cliff talks
+22                                        President Obama speech
+23                   Producer Price Index ex Food & Energy (MoM)
+24                                          Fed's Bullard speech
+25                              Fed Pace of MBS Purchase Program
+26                         Fed Pace of Treasury Purchase Program
+27                                           Fed's Yellen speech
+28                                  Fed Chairman Nomination Vote
+29                                     Fed's Chair Yellen speech
+30                                    Consumer Price Index (MoM)
+31                   Consumer Price Index ex Food & Energy (MoM)
+32                                  Fed's Chair Yellen testifies
+33          Fed's Yellen speech on Labor Markets in Jackson Hole
+34<                                 ISM Manufacturing Prices Paid
+35                                  Fed's Stanley Fischer speech
+36                                          Average Weekly Hours
+37                                              Fed Announcement
+38<                                         FOMC Press Conference
+39                                         OPEC Press Conference
+40                                Labor Force Participation Rate
+41                                 Average Hourly Earnings (MoM)
+42                                Donald Trump's News Conference
+43                                       Treasury Sec Lew speech
+44                                        President Trump speech
+45                                           Trump - May meeting
+46                                    Trump's speech to Congress
+47                                        Trump - Merkel Meeting
+48                            US Congress votes Health Care Bill
+49                                            Trump - Xi meeting
+50                                   Treasury Sec Mnuchin speech
+51                                         Trump - Putin Meeting
+52    Core Personal Consumption Expenditures - Price Index (MoM)
+53                                    Producer Price Index (MoM)
+54                 President Trump to announce Fed Chair Nominee
+55                                  US Government Shutdown Limit
+56                                 Average Hourly Earnings (YoY)
+57                                     Fed's Chair Powell speech
+58                                           Trump - Kim Meeting
+59                                         Trump - Putin meeting
+60                                       Trump - Juncker meeting
+61                                  Fed's Chair Powell testifies
+62                         US Democratic Primaries Super Tuesday
+63                                        G7 Call on Coronavirus
+64                         Coronavirus Task Force Press Briefing
+65                                        Initial Jobless Claims
+66                              Senate votes on Coronavirus Bill
+67                               House votes on Coronavirus Bill
+68<                                         ADP Employment Change
+69                                 ISM Services Employment Index
+70                                           Presidential Debate
+71                                        President Biden speech
+72                                    Treasury Sec Yellen speech
+73                                     Presidential Inauguration
+74                                          Biden-Powell meeting
+75                                 Treasury Sec Yellen testifies
