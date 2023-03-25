@@ -32,10 +32,6 @@
 
 
 ## RUNNING MOMENTUM TRANSFORMER EXPIRENTS AS PER WOOD's ORIGINAL IMPLIMENTATION
-Note: 
-- the sharpe ratio settings must be set to 252 periods
-- the original expanding window settings must be used that utilise year, rather than rolloing quarters (which are misslabelled as year to avoid further modifications). simple unblock the orignal lines of code and block out the Finbert_TFT lines of code.
-
 1. Create a Nasdaq Data Link account to access the [free Quandl dataset](https://data.nasdaq.com/data/CHRIS-wiki-continuous-futures/documentation). This dataset provides continuous contracts for 600+ futures, built on top of raw data from CME, ICE, LIFFE etc.
 2. Download the Quandl data with: `python -m data.download_quandl_data <<API_KEY>>`
 3. Create Momentum Transformer input features with: `python -m examples.create_features_quandl`. In this example we use the 100 futures tickers which have i) the longest history ii) more than 90% of trading days have data iii) data up until at least Dec 2021.
