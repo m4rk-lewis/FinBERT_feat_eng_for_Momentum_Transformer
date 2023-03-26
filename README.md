@@ -12,7 +12,10 @@
 9. folder: twitter  (this contains data scraped using Optimized-Modified-GetOldTweets3-OMGOT)
 
 ===========================================================================
+## Modified code from Momentum Transformer repo:
+the examples folder contains code from the original momentum transformer repo by Wood. It is largely unmodified, with the exception that run_dmn_experiment.py has been modified to accept new experiments for the new feature set
 
+===========================================================================
 ## Creating the FinBERT TFT dataset and running it on the Momentum Transformer trading model
 1. Open 'forexlive_scraper.ipynb' within Google Colab. Run All Cells for all desired years (some are subdivided into months)
 2. place sent_forexlive_2021.csv type labelled files into 'ForexLive' '4_Finbert' folders within the repo
