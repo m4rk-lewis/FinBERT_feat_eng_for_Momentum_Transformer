@@ -85,41 +85,45 @@ Fig 7. Finbert Sentiment Oscilators 3:
 
 Fig 8. New Feature Map (per experiment):
 <p align="center">
-  <img src="https://github.com/m4rk-lewis/FinBERT_Feat_Eng_for_MOMENTUM_TRANFORMER/blob/main/pics/Proposed Improved Feature Set.jpg" width="1000" title="Proposed Improved Feature Set">
+  <img src="https://github.com/m4rk-lewis/FinBERT_Feat_Eng_for_MOMENTUM_TRANFORMER/blob/main/pics/Proposed Improved Feature Set.jpg" width="700" title="Proposed Improved Feature Set">
 </p>
 
 ===========================================================================
+## Training
+Fig 9. Optimiised Hyperparaeters per year:
+<p align="center">
+  <img src="https://github.com/m4rk-lewis/FinBERT_Feat_Eng_for_MOMENTUM_TRANFORMER/blob/main/pics/optiised parameter.png" width="700" title="optiised parameters" >
+</p>
+
+
+
+Fig 10. Expanding Windown Training Regime:
+<p align="center">
+  <img src="https://github.com/m4rk-lewis/FinBERT_Feat_Eng_for_MOMENTUM_TRANFORMER/blob/main/pics/train test split.jpg" width="700" title="train test split" >
+</p>
+
+
+===========================================================================
 ## Results
-Fig 9. Original Momentum Transformer Feature Set Performance:
+Fig 11. Original Momentum Transformer Feature Set Performance:
 <p align="center">
   <img src="https://github.com/m4rk-lewis/FinBERT_Feat_Eng_for_MOMENTUM_TRANFORMER/blob/main/pics/Original Features.jpg" width="1000" title="Original Features" >
 </p>
 
-Fig 10. Improved Feature Set Performance:
+Fig 12. Improved Feature Set Performance:
 <p align="center">
   <img src="https://github.com/m4rk-lewis/FinBERT_Feat_Eng_for_MOMENTUM_TRANFORMER/blob/main/pics/results.jpg" width="1000" title="Improved Feature Set Performance" >
 </p>
 
-Fig 11. LSTM vs TFT Momentum Transformer Performance Comparison:
+Fig 13. LSTM vs TFT Momentum Transformer Performance Comparison:
 <p align="center">
   <img src="https://github.com/m4rk-lewis/FinBERT_Feat_Eng_for_MOMENTUM_TRANFORMER/blob/main/pics/LSTM vs TFT.jpg" width="600" title="LSTM vs TFT" >
 </p>
-
-
-Fig 12. Optimiised Hyperparaeters per year:
-<p align="center">
-  <img src="https://github.com/m4rk-lewis/FinBERT_Feat_Eng_for_MOMENTUM_TRANFORMER/blob/main/pics/optiised parameter.png" width="1000" title="optiised parameters" >
-</p>
-
-
-Fig 13. Expanding Windown Training Regime:
-<p align="center">
-  <img src="https://github.com/m4rk-lewis/FinBERT_Feat_Eng_for_MOMENTUM_TRANFORMER/blob/main/pics/train test split.png" width="1000" title="train test split" >
-</p>
-
 Visualizing our key performance metric, SoAS ratio for each experiment and ranking them each, we are able to see the relative performance of experiments with each model type, then take a mean average of rank and SoAS ratio per model type.
 
 LSTM DMN has outperformed TFT DMN with a mean rank of 9.1 vs 12.6 (lower indicating a better rank). The mean SoAS ratio is also higher for LSTM models at 0.66 vs 0.43 (higher is better). Visually we can also see that the red TFT experiments show correlation with the darker colored worse rank numbers, to confirm the result.
+
+
 
 ===========================================================================
 ## Conclusion
@@ -130,6 +134,8 @@ Decreasing model training time does decrease model performance, but this was mor
 The proposed non-sentiment-based features outperformed the original features, indicating that VWAP distance is a valuable metric for timeseries prediction of stock index futures, and the inclusion of known future covariates in the form of a label encoded economic calendar data has also improved the performance of the trading models.
 
 One unusual outcome of these experiments is the unexpected outperformance of LSTM vs TFT. TFT can more accurately model longer-range dependencies in the data because of its attention mechanism, but the inclusion of non-lagging features such as pin_bar oscillators and vwap_distance oscillators may have highlighted the LSTM model’s greater ability to learn near term dependencies, which may have proved more valuable to the prediction algorithms. 
+
+
 
 ===========================================================================
 ## References
