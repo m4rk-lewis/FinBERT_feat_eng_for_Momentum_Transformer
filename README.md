@@ -20,7 +20,7 @@ The 'examples' and the 'mom_trans' folders contains code from the original momen
 
 ===========================================================================
 ## Creating the FinBERT TFT dataset and running it on the Momentum Transformer trading model
-1. place this entire repo inside the momentum transforer repo, overwriting folders with the same names
+1. Place this entire repo inside the momentum transforer repo, overwriting folders with the same names
 2. Open 'forexlive_scraper.ipynb' within Google Colab. Run All Cells for all desired years (some are subdivided into months)
 3. Place sent_forexlive_2021.csv type labelled files into 'ForexLive', then '4_Finbert' folders within the repo
 4. Place Futures Data into the Futures folder (1hour)
