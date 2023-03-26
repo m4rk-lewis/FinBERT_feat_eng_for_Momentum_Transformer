@@ -26,7 +26,7 @@ The 'examples' and the 'mom_trans' folders contains code from the original momen
 4. Place Futures Data into the Futures folder (1hour)
 5. Run feature_engineer.py using the daily timeframe option
 6. Run  export_dataset_to_mom_trans.py
-7. Use command line arguments shown in the excel spreadsheet Experiemnt log to recreate the experiments. eg. python -m examples.run_dmn_experiment FinBERT-LSTM-63-1					
+7. Use command line arguments shown in the excel spreadsheet Experiemnt log to recreate the experiments. eg. `python -m examples.run_dmn_experiment FinBERT-LSTM-63-1`				
 
 ===========================================================================
 
