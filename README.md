@@ -105,6 +105,18 @@ Fig 11. LSTM vs TFT Momentum Transformer Performance Comparison:
   <img src="https://github.com/m4rk-lewis/FinBERT_Feat_Eng_for_MOMENTUM_TRANFORMER/blob/main/pics/LSTM vs TFT.jpg" width="600" title="LSTM vs TFT" >
 </p>
 
+
+Fig 12. Optimiised Hyperparaeters per year:
+<p align="center">
+  <img src="https://github.com/m4rk-lewis/FinBERT_Feat_Eng_for_MOMENTUM_TRANFORMER/blob/main/pics/optiised parameter.png" width="1000" title="optiised parameters" >
+</p>
+
+
+Fig 13. Expanding Windown Training Regime:
+<p align="center">
+  <img src="https://github.com/m4rk-lewis/FinBERT_Feat_Eng_for_MOMENTUM_TRANFORMER/blob/main/pics/train test split.png" width="1000" title="train test split" >
+</p>
+
 Visualizing our key performance metric, SoAS ratio for each experiment and ranking them each, we are able to see the relative performance of experiments with each model type, then take a mean average of rank and SoAS ratio per model type.
 
 LSTM DMN has outperformed TFT DMN with a mean rank of 9.1 vs 12.6 (lower indicating a better rank). The mean SoAS ratio is also higher for LSTM models at 0.66 vs 0.43 (higher is better). Visually we can also see that the red TFT experiments show correlation with the darker colored worse rank numbers, to confirm the result.
