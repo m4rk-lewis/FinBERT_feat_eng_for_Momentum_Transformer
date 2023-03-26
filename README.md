@@ -134,20 +134,6 @@ One unusual outcome of these experiments is the unexpected outperformance of LST
   year={2021}
 }
 
-@article {Wood111,
-	author = {Wood, Kieran and Roberts, Stephen and Zohren, Stefan},
-	title = {Slow Momentum with Fast Reversion: A Trading Strategy Using Deep Learning and Changepoint Detection},
-	volume = {4},
-	number = {1},
-	pages = {111--129},
-	year = {2022},
-	doi = {10.3905/jfds.2021.1.081},
-	publisher = {Institutional Investor Journals Umbrella},
-	issn = {2640-3943},
-	URL = {https://jfds.pm-research.com/content/4/1/111},
-	eprint = {https://jfds.pm-research.com/content/4/1/111.full.pdf},
-	journal = {The Journal of Financial Data Science}
-}
 
 
 
