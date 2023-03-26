@@ -20,12 +20,13 @@ The 'examples' and the 'mom_trans' folders contains code from the original momen
 
 ===========================================================================
 ## Creating the FinBERT TFT dataset and running it on the Momentum Transformer trading model
-1. Open 'forexlive_scraper.ipynb' within Google Colab. Run All Cells for all desired years (some are subdivided into months)
-2. place sent_forexlive_2021.csv type labelled files into 'ForexLive' '4_Finbert' folders within the repo
-3. Place Futures Data into the Futures folder (1hour)
-4. Run feature_engineer.py using the daily timeframe option
-5. Run  export_dataset_to_mom_trans.py
-6. Use command line arguments shown in the excel spreadsheet Experiemnt log to recreate the experiments. eg. python -m examples.run_dmn_experiment FinBERT-LSTM-63-1					
+1. place this entire repor inside the momentum transforer repo, overwriting folders if needed
+2. Open 'forexlive_scraper.ipynb' within Google Colab. Run All Cells for all desired years (some are subdivided into months)
+3. Place sent_forexlive_2021.csv type labelled files into 'ForexLive', then '4_Finbert' folders within the repo
+4. Place Futures Data into the Futures folder (1hour)
+5. Run feature_engineer.py using the daily timeframe option
+6. Run  export_dataset_to_mom_trans.py
+7. Use command line arguments shown in the excel spreadsheet Experiemnt log to recreate the experiments. eg. python -m examples.run_dmn_experiment FinBERT-LSTM-63-1					
 
 ===========================================================================
 
