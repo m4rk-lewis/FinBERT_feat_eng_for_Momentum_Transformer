@@ -89,7 +89,7 @@ Fig 7. New Feature Map (per experiment):
 ## Results
 Fig 7. Finbert Sentiment Oscilators 2:
 <p align="center">
-  <img src="https://github.com/m4rk-lewis/FinBERT_Feat_Eng_for_MOMENTUM_TRANFORMER/blob/main/pics/results.png" width="1000" title="Results">
+  <img src="https://github.com/m4rk-lewis/FinBERT_Feat_Eng_for_MOMENTUM_TRANFORMER/blob/main/pics/results.png" width="1000" title="Results" style="background-color:white">
 </p>
 
 
