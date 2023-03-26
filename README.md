@@ -35,8 +35,6 @@ The examples folder and the mom_trans folders contains code from the original mo
 </p>
 
 ===========================================================================
-
-
 ## RUNNING MOMENTUM TRANSFORMER EXPIRENTS AS PER WOOD's ORIGINAL IMPLIMENTATION
 1. Create a Nasdaq Data Link account to access the [free Quandl dataset](https://data.nasdaq.com/data/CHRIS-wiki-continuous-futures/documentation). This dataset provides continuous contracts for 600+ futures, built on top of raw data from CME, ICE, LIFFE etc.
 2. Download the Quandl data with: `python -m data.download_quandl_data <<API_KEY>>`
