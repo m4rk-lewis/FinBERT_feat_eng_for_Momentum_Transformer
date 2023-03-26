@@ -14,7 +14,7 @@
 
 ===========================================================================
 ## Modified code from Momentum Transformer repo:
-The examples folder and the mom_trans folders contains code from the original momentum transformer repo by Wood. They is largely unmodified, with the exception that run_dmn_experiment.py and model_inputs.py which have been minimally modified to accept new experiments for the new feature set.
+The 'examples' and the 'mom_trans' folders contains code from the original momentum transformer repo by Wood. They is largely unmodified, with the exception that run_dmn_experiment.py and model_inputs.py which have been minimally modified to accept new experiments for the new feature set.
 
 
 
