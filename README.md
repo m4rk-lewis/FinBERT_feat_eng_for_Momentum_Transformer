@@ -87,9 +87,19 @@ Fig 7. New Feature Map (per experiment):
 
 ===========================================================================
 ## Results
-Fig 7. Finbert Sentiment Oscilators 2:
+Fig 8. Original Momentum Transformer Feature Set Performance:
 <p align="center">
-  <img src="https://github.com/m4rk-lewis/FinBERT_Feat_Eng_for_MOMENTUM_TRANFORMER/blob/main/pics/results.jpg" width="1000" title="Results" >
+  <img src="https://github.com/m4rk-lewis/FinBERT_Feat_Eng_for_MOMENTUM_TRANFORMER/blob/main/pics/Original Features.jpg" width="1000" title="Original Features" >
+</p>
+
+Fig 9. Improved Feature Set Performance:
+<p align="center">
+  <img src="https://github.com/m4rk-lewis/FinBERT_Feat_Eng_for_MOMENTUM_TRANFORMER/blob/main/pics/results.jpg" width="1000" title="Improved Feature Set Performance" >
+</p>
+
+Fig 10. LSTM vs TFT Momentum Transformer Performance Comparison:
+<p align="center">
+  <img src="https://github.com/m4rk-lewis/FinBERT_Feat_Eng_for_MOMENTUM_TRANFORMER/blob/main/pics/results.jpg" width="1000" title="Improved Feature Set Performance" >
 </p>
 
 
