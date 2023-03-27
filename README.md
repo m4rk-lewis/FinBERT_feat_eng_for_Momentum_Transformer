@@ -14,7 +14,7 @@
 
 
 ===========================================================================
-## Modified code from Momentum Transformer repo
+## Modified code from [Momentum Transforer](https://github.com/kieranjwood/trading-momentum-transformer) repo
 The 'examples' and the 'mom_trans' folders contains code from the original momentum transformer repo by Wood. They are largely unmodified, with the exception that run_dmn_experiment.py and model_inputs.py which have been minimally modified to accept new experiments for the new feature set.
 
 
