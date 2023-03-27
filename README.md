@@ -129,7 +129,7 @@ LSTM DMN has outperformed TFT DMN with a mean rank of 9.1 vs 12.6 (lower indicat
 
 ===========================================================================
 ## Conclusion
-Sizeable improvements have been seen in annualized Sharpe ratio, cumulative percentage return and Sharpe of Annualized Sharpe ratios following the supplementation of a new feature set. 
+Sizeable improvements have been seen in annualized Sharpe ratio, cumulative percentage return and Sharpe of Annualized Sharpe ratios following the supplementation of a new feature set. While inconclusive, it could suggest that the reduction in performance in recent years of LSTM based trading strategies is partly due to model complexity, in particular the modelling of long-term dependencies, it also suggests that there was simply a regime change in terms of feature set use within the institutional trading industry, with more of a focus shifting towards alternative sentiment based features, rather than pure price based features.
 
 Decreasing model training time does decrease model performance, but this was more than compensated for by the improvements from using a new feature set. 
 
