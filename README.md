@@ -15,9 +15,9 @@
 
 ===========================================================================
 ## Modified code from [Momentum Transforer](https://github.com/kieranjwood/trading-momentum-transformer) repo
-The 'examples' and the 'mom_trans' folders contains code from the original momentum transformer repo by Wood. They are largely unmodified, with the exception that run_dmn_experiment.py and model_inputs.py which have been minimally modified to accept new experiments for the new feature set.
+The 'examples', 'settings' and the 'mom_trans' folders contains code from the original momentum transformer repo by Wood. They are largely unmodified, with the exception that run_dmn_experiment.py, default.py, settings.py, run_classical_strategies.py and model_inputs.py which have been minimally modified to accept new experiments for the new feature set and to run for a reduced training perdiod to match the start of the alternative features. 
 
-
+The experiments are also no longer multi-instrument portfolio tests, and rather focus only on $ES_F (S&P 500) futures.
 
 ===========================================================================
 ## Creating the FinBERT TFT dataset and running it on the Momentum Transformer trading model
