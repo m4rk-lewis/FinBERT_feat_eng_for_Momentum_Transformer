@@ -50,34 +50,34 @@ The 'examples' and the 'mom_trans' folders contains code from the original momen
 
 ===========================================================================
 ## New Features
-Fig 3. VWAP Proximity Oscilators:
+Fig 3. VWAP Proximity Oscilators - Daily timeframe:
 <p align="center">
   <img src="https://github.com/m4rk-lewis/FinBERT_Feat_Eng_for_MOMENTUM_TRANFORMER/blob/main/pics/VWAP Dist Oscilators.png" width="1000" title="VWAP proximity Oscilators">
 </p>
 
 
 
-Fig 4. Pin Bar Oscilators:
+Fig 4. Pin Bar Oscilators - Daily timeframe:
 <p align="center">
   <img src="https://github.com/m4rk-lewis/FinBERT_Feat_Eng_for_MOMENTUM_TRANFORMER/blob/main/pics/Pin Bar Oscliators.png" width="1000" title="Pin Bar Oscliators">
 </p>
 
 
 
-Fig 5. Finbert Sentiment Oscilators 1:
+Fig 5. Finbert Sentiment Oscilators - Daily timeframe:
 <p align="center">
   <img src="https://github.com/m4rk-lewis/FinBERT_Feat_Eng_for_MOMENTUM_TRANFORMER/blob/main/pics/FinBERT oscliators.png" width="1000" title="Finbert Sentiment Oscilators 1">
 </p>
 
 
 
-Fig 6. Finbert Sentiment Oscilators 2:
+Fig 6. Finbert Sentiment Oscilators - 1 Hour timeframe:
 <p align="center">
   <img src="https://github.com/m4rk-lewis/FinBERT_Feat_Eng_for_MOMENTUM_TRANFORMER/blob/main/pics/FinBERT oscliators 2.png" width="1000" title="Finbert Sentiment Oscilators 2">
 </p>
 
 
-Fig 7. Finbert Sentiment Oscilators 3:
+Fig 7. Finbert Sentiment Oscilators - 1 hour timeframe:
 <p align="center">
   <img src="https://github.com/m4rk-lewis/FinBERT_Feat_Eng_for_MOMENTUM_TRANFORMER/blob/main/pics/FinBERT oscliators 3.png" width="1000" title="Finbert Sentiment Oscilators 3 - hourly">
 </p>
