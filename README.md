@@ -6,10 +6,11 @@
 3. 'export_dataset_to_mom_trans.py'
 4. overwrite the 'settings' folder from this repo into the mom trans repo
 5. overwrite the 'mom_trans' folder from this repo into the mom trans repo
-6. 'futures' folder - add purchased intraday futures data (continuous 1hour) from [firstrate](https://firstratedata.com/it/futures)
-7. 'dataset' folder - this is where export_dataset_to_mom_trans.py will export the new dataset to 
-8. 'forexlive' folder - this contains the sentiment data for every breaking news article needed for feature_engineer.py
-9. 'twitter' folder - this contains data scraped from twitter using Optimized-Modified-GetOldTweets3-OMGOT. forexlive_scraper.ipynb uses this data to extract the URL of every web page containing the news articles
+6. overwrite the 'examples' folder from this repo into the mom trans repo
+7. 'futures' folder - add purchased intraday futures data (continuous 1hour) from [firstrate](https://firstratedata.com/it/futures)
+8. 'dataset' folder - this is where export_dataset_to_mom_trans.py will export the new dataset to 
+9. 'forexlive' folder - this contains the sentiment data for every breaking news article needed for feature_engineer.py
+10. 'twitter' folder - this contains data scraped from twitter using Optimized-Modified-GetOldTweets3-OMGOT. forexlive_scraper.ipynb uses this data to extract the URL of every web page containing the news articles
 
 
 ===========================================================================
