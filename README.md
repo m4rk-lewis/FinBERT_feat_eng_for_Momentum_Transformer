@@ -90,6 +90,8 @@ Fig 8. New Feature Map (per experiment):
 
 ===========================================================================
 ## Training
+The experiments were conducted by shifting the intraday data to daily timeframe data. News callendar data, futures price data and breaking news data were all synchronised to Helsinki time (GMT+2/3), to adhere to 'New York Close' charting principles and DST shift schedule. This ensures only five daily candles per week rather than including a small Sunday candle.
+
 Fig 9. Optimiised Hyperparaeters per year:
 <p align="center">
   <img src="https://github.com/m4rk-lewis/FinBERT_Feat_Eng_for_MOMENTUM_TRANFORMER/blob/main/pics/optiised parameter.png" width="700" title="optiised parameters" >
